@@ -1,6 +1,6 @@
 { 
   "name": "slush-itcss",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "template for develop with itcss architecture and sass pre processor",
   "main": "slushfile.js",
   "keywords": [
