@@ -1,0 +1,27 @@
+{ 
+  "name": "slush-itcss",
+  "version": "0.0.1",
+  "description": "template for develop with itcss architecture and sass pre processor",
+  "main": "slushfile.js",
+  "keywords": [
+    "slushgenerator",
+    "itcss",
+    "ITCSS",
+    "SASS",
+    "sass",
+    "slush-itcss",
+    "slush"
+  ],
+  "dependencies": {
+    "gulp":    "^3.5.6",
+    "gulp-install": "~0.1.1",
+    "gulp-conflict": "~0.1.1",
+    "underscore.string": "~2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dielduarte/slush-itcss"
+  },
+  "author": "Diel Duarte",
+  "license": "MIT"
+}

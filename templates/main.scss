@@ -1,0 +1,43 @@
+/*
+	SETTINGS
+*/
+
+	@import "_settings/**/*";
+   
+
+/*
+	TOOLS
+*/ 
+	//Mixins
+	@import "_tools/mixins/*";
+	
+	// Placeholders
+	@import "_tools/placeholders/*";
+	
+
+
+/*
+	GENERIC
+*/
+
+	@import "_generic/**/*"; 
+
+/*
+	BASE
+*/
+	@import "_base/**/*";
+
+/*
+	OBJECTS
+*/
+	@import "_objects/**/*";
+
+/*
+	COMPONENTS
+*/
+	@import "_components/**/*";
+
+/*
+	TRUMPS
+*/
+	@import "_trumps/**/*"; 
