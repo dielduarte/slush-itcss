@@ -4,17 +4,17 @@ Template for develop with itcss architecture and sass pre processor
 
 ## Installation
 
-Install with NPM slush-angular-basic
+Install with NPM slush-itcss
 
 ```
-[sudo] npm install slush-angular-basic
+[sudo] npm install slush-itcss
 ```
 
 ## Usage
 run the generation in folder required
 
 ```
-slush angular-basic
+slush itcss
 ```
 
 ##Utility
